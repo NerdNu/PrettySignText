@@ -1,0 +1,7 @@
+name: ${project.name}
+version: ${project.version}
+author: Challenger2
+authors: [Challenger2]
+description: ${project.description}
+website: ${project.url}
+main: nu.nerd.PrettySignText.PrettySignTextPlugin
